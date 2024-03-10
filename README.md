@@ -1,4 +1,4 @@
-# ![https://github.com/Gius0204]<img src="https://github.com/Gius0204/Gius0204/blob/main/perfilFondoNegro.png" alt="Texto alternativo" width="100"> Hola, soy Gius Piley👋
+# [<img src="https://github.com/Gius0204/Gius0204/blob/main/perfilFondoNegro.png" alt="Texto alternativo" width="100">](https://github.com/Gius0204) Hola, soy Gius Piley👋
 ### Apasionado por el Desarrollo de Software y la Automatización
 
 ![https://github.com/Gius0204](https://github.com/Gius0204/Gius0204/blob/main/portada.jpg)
