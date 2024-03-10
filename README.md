@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hola, mi nombre es Giusseppe Piminchumo, pero comúnmente soy Gius 👋
+### Estudiante de Ingeniería, Apasionado por el Desarrollo de Software y la Automatización
+
+
 
 <!--
 **Gius0204/Gius0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
