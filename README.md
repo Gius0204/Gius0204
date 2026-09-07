@@ -3,13 +3,14 @@
     <img src="https://github.com/Gius0204/Gius0204/blob/main/perfilFondoNegroRecortado.png?raw=true" width="112" alt="Illustrated avatar of Giusseppe Piminchumo" />
   </a>
 
-  # Hi, I'm Giusseppe Piminchumo 👋
+# Hi, I'm Gius Piley 👋
 
-  ### Product Engineer building the bridge between software and industrial hardware.
+### Product Engineer building the bridge between software and industrial hardware.
 
-  <a href="https://gius0204.github.io/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/giuspiley/">LinkedIn</a> ·
-  <a href="mailto:giusseppepimin@gmail.com">Email</a>
+<a href="https://gius0204.github.io/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/giuspiley/">LinkedIn</a> ·
+<a href="mailto:giusseppepimin@gmail.com">Email</a>
+
 </div>
 
 I am a Product Engineer from Peru who enjoys turning real-world engineering challenges into useful, reliable systems. My work sits at the intersection of product development, industrial automation, embedded devices, IoT, and AI-enabled software.
@@ -25,8 +26,8 @@ I care about the whole path: understanding the problem, shaping a practical solu
 
 ## Toolkit
 
-| Product & software | Industrial & embedded | Data & AI |
-| --- | --- | --- |
+| Product & software                             | Industrial & embedded                                       | Data & AI                                           |
+| ---------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------- |
 | Python · TypeScript · JavaScript · C/C++ · SQL | PLCs · Ladder/FBD · ESP32 · STM32 · MQTT · RS485 · Ethernet | PostgreSQL · Power BI · n8n · RAG · YOLOv8 · Docker |
 
 ## Building in public
