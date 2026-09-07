@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Giusseppe Piminchumo - Systems meets Mechatronics</title>
+  <desc id="desc">Abstract technical banner showing software and mechatronics signals joining into one product system.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07090d"/><stop offset="1" stop-color="#111923"/></linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#27d6ff"/><stop offset=".5" stop-color="#edf4f5"/><stop offset="1" stop-color="#ff7733"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#edf4f5" stroke-opacity=".06"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1280" height="420" rx="18" fill="url(#bg)"/><rect width="1280" height="420" rx="18" fill="url(#grid)"/>
+  <path d="M70 105H310L385 180H565" fill="none" stroke="#27d6ff" stroke-width="3"/><path d="M1210 315H970L895 240H715" fill="none" stroke="#ff7733" stroke-width="3"/>
+  <path d="M565 180L640 210L715 240" fill="none" stroke="url(#signal)" stroke-width="5" filter="url(#glow)"/>
+  <g fill="#27d6ff"><circle cx="70" cy="105" r="7"/><circle cx="310" cy="105" r="5"/><circle cx="565" cy="180" r="7"/></g>
+  <g fill="#ff7733"><circle cx="1210" cy="315" r="7"/><circle cx="970" cy="315" r="5"/><circle cx="715" cy="240" r="7"/></g>
+  <circle cx="640" cy="210" r="28" fill="#07090d" stroke="url(#signal)" stroke-width="4"/><circle cx="640" cy="210" r="8" fill="#edf4f5" filter="url(#glow)"/>
+  <text x="70" y="282" fill="#edf4f5" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">SYSTEMS × MECHATRONICS</text>
+  <text x="74" y="330" fill="#99a6ad" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="5">SOFTWARE  ·  AUTOMATION  ·  PRODUCT</text>
+  <text x="1110" y="74" fill="#99a6ad" font-family="monospace" font-size="15" letter-spacing="2">GP / 01</text>
+</svg>
